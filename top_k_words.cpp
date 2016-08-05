@@ -166,7 +166,7 @@ void show_all(Trie * root){
 
 void start(char * msg, Trie * root){
 	system("cls");
-	printf("My contact book :\n");
+	printf("My word dashbord :\n");
 	printf("-----------------\n");
 	if (msg != NULL)
 		printf("\nStatus : %s\n\n", msg);
